@@ -1,4 +1,4 @@
-# React Developer Roadmap (2024)
+# React Developer Roadmap (2024) ⚛️
 
 A thorough React developer roadmap for 2024 that addresses all aspects of React and beyond.
 
@@ -164,7 +164,7 @@ You should know and be comfortable with **all of the following:**
 -   **Form Handling in React**
 
     -   How to validate user input in forms (emails, passwords, etc.)
-    -   How to send form data to server
+    -   How to send form data to the server
     -   How to handle file uploads
     -   [Using React Hook Form](https://react-hook-form.com/)
     -   [Using Formik](https://formik.org/docs/overview)
@@ -209,7 +209,7 @@ You should have worked with **one of the following:**
     -   How to perform code reviews
     -   How to give and receive feedback
 -   **Efficiency**
-    -   How to prioritise tasks
+    -   How to prioritize tasks
     -   How to handle tech debt
     -   How to meet deadlines and goals
 -   **Continuous Learning**
@@ -238,6 +238,9 @@ You should have worked with **one of the following:**
 
 [React Armory](https://reactarmory.com/): A collection of free resources, guides, and courses to learn React.
 
+
 [Fullstackopen - Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react): A free online course covering the basics of React.js by the University of Helsinki.
 
 [Egghead.io - React Fundamentals](https://egghead.io/courses/react-fundamentals): Egghead.io offers free lessons on React fundamentals.
+
+### More are comming soon! 
