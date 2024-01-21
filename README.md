@@ -33,7 +33,7 @@ You should know and be comfortable with **all of the following:**
     -   Tailwind Directives
     -   Tailwind Configurations
     -   Theme Configurations
-    -   [Tailwind cn() utility](https://www.youtube.com/watch?v=y7DrXkGj7AU)
+    -   [Tailwind cn() utility]
 
 -   **Document Object Model (DOM)**
 
