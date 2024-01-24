@@ -220,9 +220,14 @@ You should have worked with **one of the following:**
 
 ## Resources to learn React.js
 
-> Some free resources that might help you achieve your goal of becoming a React Developer
+> Some free and paid resources that might help you achieve your goal of becoming a React Developer
 
 [React Official Documentation](https://reactjs.org/docs/gettingtarted.html): The official documentation is a comprehensive guide to understanding and using React.
+
+[Learn React by Scrimba](https://scrimba.com/learn/learnreact): Learn React by Scrimba
+
+[Full Modern React Tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d): Full Modern React Tutorial by Net Ninja
+
 
 [React.js on MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started): MDN Web Docs provides a step-by-step guide to getting started with React.js.
 
@@ -243,4 +248,4 @@ You should have worked with **one of the following:**
 
 [Egghead.io - React Fundamentals](https://egghead.io/courses/react-fundamentals): Egghead.io offers free lessons on React fundamentals.
 
-### More are comming soon! 
+[React - The Complete Guide 2024 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-bggwPPY8PbL9EU0xYBWUlA&LSNPUBID=jU79Zysihs4&utm_source=aff-campaign&utm_medium=udemyads) React - The Complete Guide 2024 (incl. React Router & Redux)
