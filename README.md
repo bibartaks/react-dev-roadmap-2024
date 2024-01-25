@@ -248,4 +248,12 @@ You should have worked with **one of the following:**
 
 [Egghead.io - React Fundamentals](https://egghead.io/courses/react-fundamentals): Egghead.io offers free lessons on React fundamentals.
 
-[React - The Complete Guide 2024 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-bggwPPY8PbL9EU0xYBWUlA&LSNPUBID=jU79Zysihs4&utm_source=aff-campaign&utm_medium=udemyads) React - The Complete Guide 2024 (incl. React Router & Redux)
+[React - The Complete Guide 2024 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-bggwPPY8PbL9EU0xYBWUlA&LSNPUBID=jU79Zysihs4&utm_source=aff-campaign&utm_medium=udemyads): React - The Complete Guide 2024 (incl. React Router & Redux)
+
+[Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)](https://zerotomastery.io/courses/learn-react/): Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL) by ZTM.
+
+[React 18 for Beginners](https://codewithmosh.com/p/ultimate-react-part1): React 18 for Beginners by Code With Mosh.
+
+[React Basics](https://www.coursera.org/learn/react-basics): React Basics by Meta.
+
+
