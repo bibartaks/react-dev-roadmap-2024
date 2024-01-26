@@ -256,4 +256,7 @@ You should have worked with **one of the following:**
 
 [React Basics](https://www.coursera.org/learn/react-basics): React Basics by Meta.
 
+[Advanced React](https://scrimba.com/learn/react): Advanced React by Scrimba.
+
+
 
