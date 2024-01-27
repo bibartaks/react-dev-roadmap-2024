@@ -260,7 +260,7 @@ You should have worked with **one of the following:**
 
 ## Some React Interview 1uestion resources 
 
-> Some resources that might help you achieve your goal of landing a React Developer Role
+> Here are some resources that can help you land a job as a Vue developer.
 
 [React Interview Questions and Answers](https://www.dropbox.com/scl/fi/4rgu5tl0tj6tpcqwdsrah/react-interview-questions-and-answers.pdf?rlkey=6c1k3xtd1rg1d919i4hxac61f&dl=0): React Interview Questions and Answers by George Moller.
 
