@@ -258,5 +258,11 @@ You should have worked with **one of the following:**
 
 [Advanced React](https://scrimba.com/learn/react): Advanced React by Scrimba.
 
+## Some React Interview 1uestion resources 
+
+> Some resources that might help you achieve your goal of landing a React Developer Role
+
+
+
 
 
